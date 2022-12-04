@@ -1,4 +1,4 @@
-# Natural_Disaster
+# Natural_Disaster NLP Modelling
 Used for Stats Canada
 https://www.kaggle.com/competitions/nlp-getting-started/rules
 
@@ -22,3 +22,4 @@ Acknowledgments
 This dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website here.
 
 Tweet source: https://twitter.com/AnyOtherAnnaK/status/629195955506708480
+Glove documentation: https://nlp.stanford.edu/projects/glove/
